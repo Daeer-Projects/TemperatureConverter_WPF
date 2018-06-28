@@ -1,0 +1,21 @@
+(F - 32) x 5/9 = C 
+(C x 1.8) + 32 = F
+
+k = C+273.15
+c = k-273.15
+
+gas = 
+Degrees Fahrenheit Degrees Celsius Gas Mark 	Description 
+225 			110		    1/4 	Very slow 
+250 			120/130 	1/2 	Very slow 
+275 			140 		1 	Slow 
+300 			150 		2 	Slow 
+325 			160/170 	3 	Moderate 
+350 			180 		4 	Moderate 
+375 			190 		5 	Moderately hot 
+400 			200 		6 	Moderately hot 
+425 			220 		7 	Hot 
+450 			230 		8 	Hot 
+475 			240 		9 	Very hot 
+500			    260		    10	Very hot
+
